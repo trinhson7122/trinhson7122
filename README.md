@@ -14,7 +14,7 @@
 ### Tools:
 <img align='left' width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png" />
 <img align='left' height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/laravel-2038872-1720085.png" />
-<img align='left' height="32" width="32" src="https://w7.pngwing.com/pngs/591/332/png-transparent-laragon-hd-logo-thumbnail.png" />
+<img align='left' height="32" width="32" src="https://w7.pngwing.com/pngs/591/332/png-transparent-laragon-hd-logo.png" />
 <br>
 
 ### Libraries and Frameworks:
