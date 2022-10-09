@@ -1,6 +1,6 @@
-### Hi everybody 👋
+### Hi everybody 👋👋
 
-- <img align='left' width="32" height="32" style="color:white" src="https://cdn.iconscout.com/icon/free/png-256/university-2790072-2314116.png" /> I’m studying at [HAUI]
+- 🔭 I’m studying at [HAUI]
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 
@@ -8,7 +8,14 @@
 
 ### Tools:
 <img align='left' width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png" />
-<img align='left' height="32" width="32" src="https://logowik.com/content/uploads/images/laragon7302.jpg" />
+<img align='left' height="32" src="https://www.kreaweb.be/wp-content/uploads/2021/03/laragon.png" />
+<br>
+
+### Languages:
+<img align='left' width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/html-2752158-2284975.png" />
+<img align='left' height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" />
+<img align='left' height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" />
+<img align='left' height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png" />
 <br>
 
 ### Libraries and Frameworks:
@@ -19,7 +26,6 @@
 ### Databases:
 <img align='left' height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png" />
 
-<br>
 <br>
 
 ---
