@@ -1,6 +1,6 @@
 ### Hi everybody 👋
 
-- <img align='left' width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/university-2790072-2314116.png" /> I’m studying at [HAUI]
+- <img align='left' width="32" height="32" style="color:white" src="https://cdn.iconscout.com/icon/free/png-256/university-2790072-2314116.png" /> I’m studying at [HAUI]
 - 💬 Ask me about every thing
 - 📫 How to reach me: [Facebook]
 
